@@ -163,9 +163,9 @@ h2 {
   color: #8e8d8d;
 }
 
-.viwers-container{
-  display: flex;
-  position: relative;
+.status-container {
+text-align: right;
+
 }
 
 .red-dot {
